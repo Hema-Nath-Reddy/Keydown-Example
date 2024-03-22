@@ -1,1 +1,1 @@
-# Keydown-Example
+This is a demonstration of one of the event listeners in javascript "keydown", this webpage includes several links and shortcuts to other websites such as google classroom, chatGPT which will get activated and opened in a new tab as soon as the key corresponding to the website is clicked.
